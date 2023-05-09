@@ -1,0 +1,2 @@
+[localhost]
+abhirup ansible_connection=local
